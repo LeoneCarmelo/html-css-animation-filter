@@ -123,6 +123,15 @@
 }
 /* #endregion Esercizio 5 */
 
+/* #region Esercizio 6 */
+.ex-6-img{
+    filter:none;
+    transition: filter;
+}
+.ex-6-img:hover{
+    filter: grayscale();
+}
+/* #endregion Esercizio 6 */
 
 
 
