@@ -146,4 +146,17 @@
 
 /* #endregion Esercizio 7 */
 
+/* #region Esercizio 8 */
+.ex-8-img{
+    filter:none;
+    border-radius: none;
+    border:none;
+    transition: all 2s;
+}
+.ex-8-img:hover{
+    filter: sepia();
+    border-radius: 7rem;
+    border:8px solid purple;
+}
 
+/* #endregion Esercizio 8 */
