@@ -160,3 +160,20 @@
 }
 
 /* #endregion Esercizio 8 */
+
+/* #region Esercizio 9 */
+.ex-9-img{
+    border-radius:none;
+    filter:none;
+    aspect-ratio: 0;
+    box-shadow: 0;
+    transition: all 3s;
+}
+.ex-9-img:hover{
+    border-radius:20px;
+    filter:  brightness(70%);
+    aspect-ratio: 2 / 1;
+    box-shadow: 0 0 0 5px rgb(255, 0, 0);
+}
+/* #endregion Esercizio 9 */
+
