@@ -97,4 +97,15 @@
 }
 /* #endregion Esercizio 3 */
 
+/* #region Esercizio 4 */
+.ex-4-square{
+    background-color: red;
+    transition: background-color 2s;
+}
+.ex-4-square:hover{
+    background-color: transparent;
+}
+/* #endregion Esercizio 4 */
+
+
 
