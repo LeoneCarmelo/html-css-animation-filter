@@ -87,4 +87,14 @@
 }
 /* #endregion Esercizio 2 */
 
+/* #region Esercizio 3 */
+.ex-3-square{
+    border-radius:none;
+    transition: border-radius 2s;
+}
+.ex-3-square:hover{
+    border-radius:50%;
+}
+/* #endregion Esercizio 3 */
+
 
