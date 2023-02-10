@@ -133,6 +133,17 @@
 }
 /* #endregion Esercizio 6 */
 
+/* #region Esercizio 7 */
+.ex-7-img{
+    border-radius: none;
+    filter: none;
+    transition: all 2s;
+}
+.ex-7-img:hover{
+    border-radius: 5rem;
+    filter: invert();
+}
 
+/* #endregion Esercizio 7 */
 
 
